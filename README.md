@@ -10,4 +10,4 @@ This project has been built by the following components:
     ![Screenshot_20240626_151817_Expo Go](https://github.com/jantra9/Note-App-with-react-native/assets/143193329/fa73343d-00cd-44be-8d31-4b183e76eab8)
 
   * Search bar (located in Home) will display the results
-    ![Screenshot_20240626_151839_Expo Go](https://github.com/jantra9/Note-App-with-react-native/assets/143193329/d561aee1-66f1-4084-b482-3704b12c27b7)
+    
