@@ -3,7 +3,8 @@
 This project has been built by the following components:
   * App.js to create navigation to Home.js and AddNote.js
   * Home.js will display the note list with search icon and plus icon to take users to AddNote.js
-    ![Uploading Screenshot_20240626_151759_Expo Go.jpg…]()
+    ![Screenshot_20240626_151759_Expo Go](https://github.com/jantra9/Note-App-with-react-native/assets/143193329/2aed007d-2306-41b2-990d-09ade6984191)
+
     ![Screenshot_20240626_151824_Expo Go](https://github.com/jantra9/Note-App-with-react-native/assets/143193329/ec001dd8-a9be-4818-998d-cf1501d715a9)
     
   * AddNote.js will allows users to write the note and save it or going back to Home (with save/discard Modal is in AddNote.js)
